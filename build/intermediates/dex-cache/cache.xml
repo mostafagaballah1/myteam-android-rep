@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Mostafa\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\7.0.1\d5d13ea991eab0252e3710e5df3d6a9d4b21d461\butterknife-7.0.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="D:\MyWork\MyTeam\materiallogindemo-master\app\build\intermediates\pre-dexed\debug\butterknife-7.0.1-b42c81ee2744224259ed2e629f7b2f0f4c6f722f.jar" />
+    </item>
+    <item
+        jar="D:\MyWork\MyTeam\materiallogindemo-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="D:\MyWork\MyTeam\materiallogindemo-master\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-daa6d63480e8cbc01270ea39c3cb22ebf90356e4.jar" />
+    </item>
+    <item
+        jar="D:\MyWork\MyTeam\materiallogindemo-master\app\build\intermediates\exploded-aar\com.android.support\design\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fc63b820d54c8a27a3a614bdd93920e0076581c2">
+        <dex dex="D:\MyWork\MyTeam\materiallogindemo-master\app\build\intermediates\pre-dexed\debug\classes-53d1eb88e44039bad97a46d5024866ffd9a69d1a.jar" />
+    </item>
+    <item
+        jar="D:\MyWork\MyTeam\MyTeam\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="D:\MyWork\MyTeam\MyTeam\app\build\intermediates\pre-dexed\debug\classes-a90ca25c1078e30b207b1972e00cdfbb4d5cc7aa.jar" />
+    </item>
+    <item
+        jar="D:\MyWork\MyTeam\MyTeam\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="D:\MyWork\MyTeam\MyTeam\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-d2377615b8c5483e9a3e936610202abb6dd7a0f9.jar" />
+    </item>
+    <item
+        jar="D:\MyWork\MyTeam\materiallogindemo-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="D:\MyWork\MyTeam\materiallogindemo-master\app\build\intermediates\pre-dexed\debug\classes-35e48383ada880503e0543cd9684ec95b7253c43.jar" />
+    </item>
+    <item
+        jar="D:\MyWork\MyTeam\MyTeam\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="D:\MyWork\MyTeam\MyTeam\app\build\intermediates\pre-dexed\debug\classes-bd5a7014c965447eaafec47d6bb552e5e0c2e48a.jar" />
+    </item>
+    <item
+        jar="D:\MyWork\MyTeam\MyTeam\app\build\intermediates\exploded-aar\com.android.support\design\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fc63b820d54c8a27a3a614bdd93920e0076581c2">
+        <dex dex="D:\MyWork\MyTeam\MyTeam\app\build\intermediates\pre-dexed\debug\classes-73c128a3226928245f5f223e6f77e373ead49742.jar" />
+    </item>
+    <item
+        jar="D:\MyWork\MyTeam\materiallogindemo-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="D:\MyWork\MyTeam\materiallogindemo-master\app\build\intermediates\pre-dexed\debug\classes-d48214eaacd53688e5255f841fa21fb057ec4c77.jar" />
+    </item>
+    <item
+        jar="D:\Android\android-sdk-windows\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="D:\MyWork\MyTeam\materiallogindemo-master\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-95a6e240c2b5e4553d2c654d20e757db0f9b8d68.jar" />
+    </item>
+
+</items>
